@@ -20,6 +20,8 @@ dependencies:
 - scikit-surprise==1.0.6
 # Visualization
 - ipywidgets==7.4.2
+# NLP
+- nltk==3.4.1
 
 - pip:
   # Machine Learning

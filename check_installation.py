@@ -2,7 +2,7 @@ import subprocess
 
 req = {
     "python", "tqdm", "nb_conda_kernels", "pip", "ipython", "numpy", "scipy", "pandas", 
-    "scikit-learn", "ipywidgets", "scikit-surprise", "luwiji"
+    "scikit-learn", "ipywidgets", "scikit-surprise", "luwiji", "nltk"
 }
 env_name = "jcop_recsys"
 working_folder = "recommendation_system"
