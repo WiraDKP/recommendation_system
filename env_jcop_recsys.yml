@@ -25,4 +25,4 @@ dependencies:
 
 - pip:
   # Machine Learning
-  - luwiji==1.1.2
+  - luwiji==1.1.4
